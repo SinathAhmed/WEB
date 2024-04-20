@@ -1,0 +1,10 @@
+.blog{
+    background-color: aqua;
+    border: 15px solid tomato;
+    border-radius: 15px;
+    /* border-top: 15px solid tomato; */
+    /* margin: 10px 15px 10px 10px; */
+    text-align: justify;
+    margin: 20px;
+    padding: 20px;
+}
